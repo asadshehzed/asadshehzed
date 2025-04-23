@@ -41,7 +41,7 @@
 
 I'm actively looking for data science roles, where I can grow, contribute, and make a difference. If you're hiring (or just want to geek out over data), feel free to reach out:
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/your-name)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/asadshehzed)  
 
 ---
 
