@@ -14,21 +14,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-🧠 **[NLP Resume Screener]**  
-> Built a machine learning model that evaluates resumes and ranks candidates based on job descriptions using NLP and semantic similarity.
-
-🏥 **[Predicting Patient Readmissions]**  
-> Applied feature engineering and XGBoost to predict hospital readmissions. Achieved 87% AUC. Deployed with Streamlit + Docker.
-
-📈 **[Time Series Forecasting Dashboard]**  
-> Designed a forecasting app using Prophet and Dash to help retailers plan inventory based on seasonality trends.
-
-🌐 **More on my repositories tab!**
-
----
-
 ## 🧰 Tech Stack & Tools
 
 `Python` `SQL` `Pandas` `NumPy` `Scikit-learn` `TensorFlow` `PyTorch`  
@@ -42,6 +27,7 @@
 I'm actively looking for data science roles, where I can grow, contribute, and make a difference. If you're hiring (or just want to geek out over data), feel free to reach out:
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/asadshehzed)  
+- 🌐 [Kaggle](https://www.kaggle.com/asadshehzed)  
 
 ---
 
