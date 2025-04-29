@@ -16,13 +16,13 @@
 
 ## 🚀 Featured Projects
 
-🧠 **[Project Name – NLP Resume Screener]**  
+🧠 **[NLP Resume Screener]**  
 > Built a machine learning model that evaluates resumes and ranks candidates based on job descriptions using NLP and semantic similarity.
 
-🏥 **[Project Name – Predicting Patient Readmissions]**  
+🏥 **[Predicting Patient Readmissions]**  
 > Applied feature engineering and XGBoost to predict hospital readmissions. Achieved 87% AUC. Deployed with Streamlit + Docker.
 
-📈 **[Project Name – Time Series Forecasting Dashboard]**  
+📈 **[Time Series Forecasting Dashboard]**  
 > Designed a forecasting app using Prophet and Dash to help retailers plan inventory based on seasonality trends.
 
 🌐 **More on my repositories tab!**
